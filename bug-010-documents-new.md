@@ -1,4 +1,4 @@
-# BUG-011: Na stránce „Dokuments“ tlačítko „+Nový dokument“ otevírá stránku FAQ
+# BUG-010: Na stránce „Dokuments“ tlačítko „+Nový dokument“ otevírá stránku FAQ
 
 **Prostředí:**
 - Zařízení: Windows 11  
