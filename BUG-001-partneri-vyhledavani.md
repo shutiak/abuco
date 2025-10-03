@@ -1,4 +1,4 @@
-# BUG-001: Nepracuje vyhledávání partnerů podle názvu na stránce „Přehled partnerů“
+# BUG-001: Vyhledávání partnerů podle názvu nefiltruje výsledky na stránce „Přehled partnerů“
 
 **Prostředí:**
 - Zařízení: Windows 11  
@@ -16,15 +16,14 @@
 5. Kliknout na tlačítko **Hledat**.  
 
 **Skutečný výsledek:**
-- Nezobrazí se žádní partneři, kteří mají v názvu *Springfield High School*.  
-- Nezobrazí se ani žádné chybové hlášení.  
+- Zobrazí se **všichni partneři**, místo aby byl seznam omezen pouze na ty s názvem *Springfield High School*.  
 
 **Očekávaný výsledek:**
-- Zobrazí se partneři, jejichž název obsahuje *Springfield High School*.  
-- Pokud vyhledávání selže, mělo by se zobrazit odpovídající chybové hlášení.  
+- Zobrazí se pouze partneři, jejichž název obsahuje *Springfield High School*.  
 
 **Závažnost:** High  
 **Priorita:** High  
 
 **Přílohy:**  
-*(neposkytnuto)*
+<img width="950" height="492" alt="image" src="https://github.com/user-attachments/assets/686900e5-d91f-4173-9afa-5053201195b1" />
+
