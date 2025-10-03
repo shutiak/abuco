@@ -3,7 +3,6 @@
 **Prostředí:**
 - Zařízení: Windows 11  
 - Prohlížeč: Chrome 138.0  
-- URL: [např. https://ut.a12.abuco.cz/admin/faq/]  
 
 **Předpodmínky:**
 - Uživatel otevřel stránku FAQ` (Uživatel otevřel stránku FAQ (https://ut.a12.abuco.cz/admin/faq/)) 
